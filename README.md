@@ -11,3 +11,8 @@ Instructions to use:
 2. When you run this application, it lists all the LabVIEW versions installed on this PC.
 3. Clicking on "Create Context Menus" button, adds a right click context menu for all the versions.
 4. If you see any erros, check if you are an admin account on this PC or run as admin.
+
+Instructions for development:
+
+1. You need to install JKI State Machine from VIPM
+2. Use LabVIEW 2016 32-bit version
